@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# practice2 (1日で基本が身に付く！　RubyonRails)
+* 表題にある通り1日で流れる様に勉強できました
+* Railsに初めて触れる人にはとてもいい教材かと考えます
